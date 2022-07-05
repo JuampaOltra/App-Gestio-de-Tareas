@@ -1,0 +1,32 @@
+.titulo {
+    font-family: 'Permanent Marker', cursive;"
+}
+
+body{
+    background: #99f2c8;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h3{
+  background-color: black;
+  color: white;
+}
+
+.tarea_hecha{
+    text-decoration: line-through;
+    color: #cfcfcf;
+}
+
+.desplegable{
+    background: #99f2c8;
+}
+
+.tooltip-custom{
+    color: black;
+    animation="true"
+}
+
+.categoria_hogar{
+    color: #99f2c8
+}
